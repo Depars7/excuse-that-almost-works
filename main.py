@@ -9,6 +9,9 @@ import os
 # The excuse, assembled from three beats so each part reads like one
 # hurried text: the boring household failure, the specific detail that
 # makes it believable, and the consequence that proves it.
+# The "12 degrees" is the believability anchor: a tired manager has heard
+# a dead boiler every winter, and numb fingers explain why the texter
+# cannot simply work from home — the excuse proves itself.
 PARTS = [
     "Boiler died overnight,",
     "house is 12 degrees and I can't feel my fingers to type,",
